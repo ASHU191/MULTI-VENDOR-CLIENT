@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const local = process.env.REACT_APP_SITE_URL
 // const local = 'http://localhost:5000'
-const deployAPI = 'https://spiffy-fortune-porcupine.glitch.me/'
+const deployAPI = 'https://spiffy-fortune-porcupine.glitch.me'
 const production = ''
 const api = axios.create({
     baseURL: `${deployAPI}/api`,
