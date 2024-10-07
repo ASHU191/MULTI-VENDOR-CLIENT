@@ -112,7 +112,7 @@ const Headers = () => {
             <img
               className="sm:w-20"
               width={"150px"}
-              src="http://localhost:3000/images/logo.png"
+              src="/images/logo.png"
               alt="logo"
             />
           </Link>
