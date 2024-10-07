@@ -8,8 +8,9 @@ import { useDispatch, useSelector } from 'react-redux'
 import io from 'socket.io-client'
 import { add_friend, send_message, updateMessage, messageClear } from '../../store/reducers/chatReducer'
 import toast from 'react-hot-toast'
+import {deployAPI} from '../../api/api'
 
-const socket = io('http://localhost:5000')
+const socket = io(deployAPI)
 
 const Chat = () => {
 
