@@ -19,9 +19,9 @@ const Footer = () => {
                     <div className='flex flex-col gap-3'>
                         <img className='w-[190px] h-[70x]' src="http://localhost:3000/images/logo.png" alt="logo" />
                         <ul className='flex flex-col gap-2 text-gray-300'>
-                            <li>Address : Rim Jhim Mall</li>
-                            <li>Phone : +923150007184</li>
-                            <li>Email : tahasheikh7184@gmail.com</li>
+                            <li>Address : Karachi,Pakistan</li>
+                            <li>Phone : +923010209887</li>
+                            <li>Email : arsalanaftab191@gmail.com</li>
                         </ul>
                     </div>
                 </div>
