@@ -6,7 +6,7 @@ import Card from './pages/Card';
 import Details from './pages/Details';
 import Register from './pages/Register';
 import Login from './pages/Login';
-import Shipping from './pages/Shipping';
+import Shipping from './pages/Shipping';                 
 import { useDispatch } from 'react-redux';                              
 import { get_category } from './store/reducers/homeReducer'
 import CategoryShops from './pages/CategoryShop';                          
