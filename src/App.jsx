@@ -9,7 +9,7 @@ import Login from './pages/Login';
 import Shipping from './pages/Shipping';
 import { useDispatch } from 'react-redux';
 import { get_category } from './store/reducers/homeReducer'
-import CategoryShops from './pages/CategoryShop';     
+import CategoryShops from './pages/CategoryShop';                          
 import SearchProducts from './pages/SearchProducts';
 import Payment from './pages/Payment';
 import Dashboard from './pages/Dashboard';
