@@ -52,7 +52,7 @@ function App() {
             <Route path='chat' element={<Chat />} />
             <Route path='chat/:sellerId' element={<Chat />} />
           </Route>
-        </Route>
+        </Route>     
 
       </Routes>
     </BrowserRouter>
