@@ -12,7 +12,7 @@ import { get_category } from './store/reducers/homeReducer'
 import CategoryShops from './pages/CategoryShop';                          
 import SearchProducts from './pages/SearchProducts';
 import Payment from './pages/Payment';                          
-import Dashboard from './pages/Dashboard';
+import Dashboard from './pages/Dashboard';                 
 import ProtectUser from './utils/ProtectUser';
 import Index from './components/dashboard/Index';
 import Orders from './components/dashboard/Orders';
