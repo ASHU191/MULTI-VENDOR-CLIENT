@@ -22,7 +22,7 @@ import Order from './components/dashboard/Order';
 import Chat from './components/dashboard/Chat';
 import ConfirmOrder from './pages/ConfirmOrder';
 
-function App() {
+function App() {    
   const dispatch = useDispatch()
   useEffect(() => {
     dispatch(get_category())
