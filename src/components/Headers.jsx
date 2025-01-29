@@ -72,7 +72,7 @@ const Headers = () => {
                   <GrMail className="text-lg sm:text-[15px]" />{" "}
                 
                 </span>
-                <span className="sm:text-[10px]">tahasheikh7184@gmail.com</span>
+                <span className="sm:text-[10px]">arsalanaftab191@gmail.com</span>
               </li>
               <div className="text-center text-gray-400 pt-1 sm:text-[14px]">
                 <p>
